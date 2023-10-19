@@ -1,1 +1,6 @@
 Este es el fichero 1
+<<<<<<< HEAD
+=======
+Linea añadida
+Linea añadida
+>>>>>>> rama_nueva
